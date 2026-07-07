@@ -164,7 +164,7 @@ if st.button("🤖 AI 위험도 분석하기"):
 """)
        st.divider()
 
-    st.subheader("📖 실제 청소년 금융사기 사례")
+       st.subheader("📖 실제 청소년 금융사기 사례")
 
     if result == "높음":
         st.error("""
